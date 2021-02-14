@@ -1,0 +1,31 @@
+
+     h1 {
+        color : blue
+     }
+
+     .header {
+        background-color: #ab6ab6;
+        font-style: italic;
+        font-size: x-large;
+     }
+
+     .menu{
+         display: flex;
+         background-color: #51da12;
+         flex-wrap: wrap;
+         justify-content: space-around;
+         font-size: x-large;
+         color: #ffffff;
+         
+     }
+    
+     .grid{
+         font-size: medium;
+         color: #10fabf
+     }
+     body {
+        background-image: url('s.PNG');
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: 100% 100%;
+      }
